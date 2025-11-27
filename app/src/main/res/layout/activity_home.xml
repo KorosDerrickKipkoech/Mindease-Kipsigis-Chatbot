@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E9F7F7">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:padding="26dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <!-- Welcome Title -->
+        <TextView
+            android:id="@+id/titleWelcome"
+            android:text="Itagat (Welcome)"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:textColor="#263238"
+            android:paddingBottom="16dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <!-- Subtitle -->
+        <TextView
+            android:text="Kongoi. Chakwan ne imoche:"
+            android:textSize="15sp"
+            android:textColor="#607D8B"
+            android:paddingBottom="30dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <!-- Assistance Button (Very Soft Green) -->
+        <Button
+            android:id="@+id/btnToretet"
+            android:text="Toretet (Assistance)"
+            android:textAllCaps="false"
+            android:backgroundTint="#C8E6C9"
+            android:textColor="#2E7D32"
+            android:layout_width="match_parent"
+            android:layout_height="57dp"
+            android:layout_marginBottom="18dp"
+            android:padding="16dp"/>
+
+        <!-- Diary Button (Very Soft Blue) -->
+        <Button
+            android:id="@+id/btnDiary"
+            android:text="Kabwatutik Guk (Diary)"
+            android:textAllCaps="false"
+            android:backgroundTint="#BBDEFB"
+            android:textColor="#0D47A1"
+            android:layout_width="match_parent"
+            android:layout_height="57dp"
+            android:layout_marginBottom="18dp"
+            android:padding="16dp"/>
+
+        <!-- Video Button (Very Soft Lavender) -->
+        <Button
+            android:id="@+id/btnVideo"
+            android:text="Video"
+            android:textAllCaps="false"
+            android:backgroundTint="#E1BEE7"
+            android:textColor="#6A1B9A"
+            android:layout_width="match_parent"
+            android:layout_height="57dp"
+            android:layout_marginBottom="18dp"
+            android:padding="16dp"/>
+
+        <!-- Emergency Button (Very Soft Rose) -->
+        <Button
+            android:id="@+id/btnEmergency"
+            android:text="Nambarisiek (Emergency Contacts)"
+            android:textAllCaps="false"
+            android:backgroundTint="#FFCDD2"
+            android:textColor="#B71C1C"
+            android:layout_width="match_parent"
+            android:layout_height="57dp"
+            android:layout_marginBottom="18dp"
+            android:padding="16dp"/>
+
+    </LinearLayout>
+
+</ScrollView>

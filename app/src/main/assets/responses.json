@@ -1,0 +1,184 @@
+{
+  "stress_overthinking": {
+    "title": "Mayaeet ak Kabwatutik",
+    "keywords": [
+      "stress",
+      "karanget",
+      "kabwatutik",
+      "mabaibai",
+      "mengeten",
+      "koit ng’otet",
+      "korib tugul"
+    ],
+    "responses": [
+      "Mayaa yan kanamin kabwatutik kamun koiibe tuguk che chang",
+      "Nkibwat soiti koyoi tabuuk kobur kouon ech ako maech",
+      "Malasima itatuan tuguk tugul raa",
+      "Nyolu ipos banda asi komuny akilit",
+      "Wii mutyo kamun iite kora"
+    ]
+  },
+
+  "anxiety_worry": {
+    "title": "Arogenet ak Saitage",
+    "keywords": [
+      "arogenet",
+      "aarogeni",
+      "imanyet",
+      "ng'otet kongeten",
+      "kiwottet",
+      "mekolenget"
+    ],
+    "responses": [
+      "Matibekach arogenet kumutin",
+      "Ibus nguni imi ole karan",
+      "Saitage kabwatutik ko ma imanit",
+      "Iime ge borto amun en kabwatutik beku ko maloo",
+      "Kiribuni tuguk che uu chu, imuche isir inono koraa"
+    ]
+  },
+
+  "sadness_low_mood": {
+    "title": "Mabaibai ak Ng’wani",
+    "keywords": [
+      "mabaibai",
+      "angetat",
+      "arire",
+      "meboiyet",
+      "ng’wanet"
+    ],
+    "responses": [
+      "Mayaa komakibaibait sait agee maboru kole megim",
+      "Malasima ibur kuoan ibaibai yon amii",
+      "Tuguk cheuyen ko mobure koigeny",
+      "Tuguk che ikose ko bo maana okot ko mogere biik alak",
+      "Nyolu isich kaliet ak ribet"
+    ]
+  },
+
+  "loneliness_isolation": {
+    "title": "Kityon ak Aningen",
+    "keywords": [
+      "kityon",
+      "anegen",
+      "kikokoche",
+      "mechi biik",
+      "mayande"
+    ],
+    "responses": [
+      "Kotikose kouan imii kityon ko mamanishani imii kityon",
+      "Chomin biik soiti kosir yeibuate",
+      "Kichomin kora okot yekose kouan mebaibai",
+      "Chang biik che kose kouni ma inyegen",
+      "Takobwane biik che iguyen ko uu ye iu"
+    ]
+  },
+
+  "family_conflict_relationships": {
+    "title": "Kongwan ak Boyot",
+    "keywords": [
+      "kwondo",
+      "boyot",
+      "chamanet",
+      "kotinyeib tugul",
+      "mebaibai eng kongwan"
+    ],
+    "responses": [
+      "Nan kongwan kot mayaa yon moguye gee",
+      "Nyolu kegonin tekisto ak kengalalun komiee",
+      "Yaan kabit kesit kengolole ak kiguiyo ge",
+      "Nyolu iriib tekisto",
+      "Kisobe yaan kabit kesit mainyegen ne kose kingwan"
+    ]
+  },
+
+  "self_esteem_confidence": {
+    "title": "Anyokor ak Makonye",
+    "keywords": [
+      "anyokor",
+      "makonye",
+      "mebounet",
+      "matichoke",
+      "komeengung"
+    ],
+    "responses": [
+      "Mewalaksei iiguu chii ake amun en makosa cha kayaiyak",
+      "Imuche akinyee iyai tuguk che achen",
+      "Matichokyi gee teiigu chito neo",
+      "Nyolu iboiboenchi gee",
+      "One hard moment doesn’t define your entire value."
+    ]
+  },
+
+  "academic_work_burnout": {
+    "title": "Sukul ak Keringet",
+    "keywords": [
+      "sugul",
+      "ngetutik",
+      "kora ng’otet",
+      "keringet",
+      "siekchot"
+    ],
+    "responses": [
+      "Igile gee okot ngot ikose kouon karinget",
+      "Koto karinget ko boru kole koigil kee",
+      "Kamunget ko karan yoon karigil gee",
+      "Malasima kokararanit tuguk tugul asi isir",
+      "Karan kimuny amun ii chito akinye"
+    ]
+  },
+
+  "guilt_regret": {
+    "title": "Nyoet ak Kaat",
+    "keywords": [
+      "nyoet",
+      "kaat",
+      "mekonyo",
+      "maiti",
+      "moriito"
+    ],
+    "responses": [
+      "Yoe chitugul amkosa kinete gee mutyo",
+      "Iyanat inyoji gee kat",
+      "Koto mebaibai kewelesei",
+      "Makiwaale tuguk che kigoiyayak lakini walaksei tuguk che tomo",
+      "Nyolu isich nafsi agee akinye nyolu kosich chiitugul"
+    ]
+  },
+
+  "trauma_emotional_pain": {
+    "title": "Nwanindo ak Muguleldo",
+    "keywords": [
+      "nwanindo",
+      "muguleldo",
+      "koribyok",
+      "imanit",
+      "kotitindo"
+    ],
+    "responses": [
+      "Che kiribunu kongwan en imanit",
+      "Beku ngwanindo ngopendi betusiek",
+      "Makaran ikas kiinwan kityon",
+      "Iigim kosir tuguk che kiyiyak",
+      "Asi kesob ketesetaa mutyo mutyo"
+    ]
+  },
+
+  "motivation_stuck": {
+    "title": "Chorirenet ak Kibendi",
+    "keywords": [
+      "chorirenet",
+      "karanget",
+      "mayande sait",
+      "makilelen",
+      "meyot"
+    ],
+    "responses": [
+      "Saige kegose kouan kagenget yon kagouit soboni",
+      "Manyolu iyay tuguk che achen chemengek kobo maana kora",
+      "Meibuti inyee ko kenget kityo",
+      "Kotitindoi taabuk ko makilelen iburee kounoton kila",
+      "Teiboibaitu kochin gee sait"
+    ]
+  }
+}
