@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "491517458219",
+    "project_id": "mindease-kipsigis-chatbot",
+    "storage_bucket": "mindease-kipsigis-chatbot.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491517458219:android:0052c32a5d35a7401d376e",
+        "android_client_info": {
+          "package_name": "com.mindease.kipsigis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDks3n9fjm2gcZm63TovKzxeDbExH8fiDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

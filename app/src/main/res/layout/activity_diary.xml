@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:background="#E9F7F7"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- Heading -->
+    <TextView
+        android:id="@+id/tvHeader"
+        android:text="Kabwatutik Guk (Diary)"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:textColor="#1A237E"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingBottom="10dp" />
+
+    <!-- Subtext description -->
+    <TextView
+        android:text="Itagat ago Sir gii..."
+        android:textSize="14sp"
+        android:textColor="#455A64"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingBottom="20dp" />
+
+    <!-- Diary input box -->
+    <EditText
+        android:id="@+id/etDiary"
+        android:hint="Sir kabwatutik en yu...(Write your thoughts)"
+        android:minHeight="140dp"
+        android:padding="16dp"
+        android:gravity="top"
+        android:background="@android:drawable/edit_text"
+        android:textColor="#000"
+        android:textSize="16sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <!-- Save button -->
+    <Button
+        android:id="@+id/btnSaveDiary"
+        android:text="Saven (Save Entry)"
+        android:textStyle="bold"
+        android:textColor="@android:color/white"
+        android:background="#1E88E5"
+        android:layout_marginTop="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <!-- Divider -->
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#B0BEC5"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="12dp"/>
+
+    <!-- List of entries -->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerDiary"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</LinearLayout>
